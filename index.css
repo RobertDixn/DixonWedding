@@ -71,7 +71,7 @@ body {
   text-align: center;
 }
 .content-wrapper{
-  margin: 0px max(15%, 40px);
+  margin: 0px max(12%, 40px);
   display: flex;
   flex-direction: column;
   row-gap: 40px;
@@ -123,7 +123,7 @@ h2 {
   border-radius: 2px;
 }
 .gift {
-  width: 104.983px;
+  width: 134px;
 }
 .parking-button {
   width: fit-content;
@@ -148,9 +148,6 @@ h2 {
 }
 /***********************************TABLET****************************************/
 @media only screen and (min-width: 768px) {
-  html, body {
-    font-size: 14px;
-  }
   .page-wrapper {
     row-gap: 60px;
 }
@@ -163,9 +160,6 @@ h2 {
   .content-wrapper{
   margin: 0px max(20%, 60px);
 }
-.gift {
-  width: 119.5px;
-}
 .details {
   padding-bottom: 20px;
 }
@@ -175,9 +169,6 @@ h2 {
 }
 /***********************************SMALL DESKTOP****************************************/
 @media only screen and (min-width: 992px) {
-    html, body {
-    font-size: 16px;
-}
   .page-wrapper {
     row-gap: 80px;
 }
@@ -192,9 +183,6 @@ h2 {
 }
 .text-wrapper {
   max-width: 500px;
-}
-.gift {
-  width: 134px;
 }
 .wedding-logo img {
   max-width: 900px;
