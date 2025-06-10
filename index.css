@@ -11,7 +11,7 @@ body {
   -moz-box-sizing: border-box;
   box-sizing: border-box;
   font-family: "Cormorant Garamond";
-  font-size: 14px;
+  font-size: 16px;
   background-color: #F8F7F5;
   max-width: 100%;
   overflow-x: hidden;
@@ -71,7 +71,7 @@ body {
   text-align: center;
 }
 .content-wrapper{
-  margin: 0px max(18%, 40px);
+  margin: 0px max(15%, 40px);
   display: flex;
   flex-direction: column;
   row-gap: 40px;
