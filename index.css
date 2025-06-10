@@ -47,7 +47,7 @@ body {
 .hero-image-wrapper {
   height: 100%;
   padding:0px max(7.5%, 20px);
-  background-image: url("Images/image-1.jpg"); /* The image used */
+  background-image: url("Images/video-1.gif"); /* The image used */
   background-position: 80%; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: cover; /* Resize the background image to cover the entire container */
@@ -152,7 +152,7 @@ h2 {
     row-gap: 60px;
 }
   .hero-image-wrapper {
-  background-position: 50% 25%; 
+  background-image: url("Images/image-1.jpg");
 }
 .wedding-logo img{
   max-width: 750px;
