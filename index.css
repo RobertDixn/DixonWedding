@@ -47,7 +47,8 @@ body {
 .hero-image-wrapper {
   height: 100%;
   padding:0px max(7.5%, 20px);
-  background-image: url("Images/video-1.gif"); /* The image used */
+  background-image: url("Images/image-1.jpg");
+  /*background-image: url("Images/video-1.gif"); /* The image used */
   background-position: 80%; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: cover; /* Resize the background image to cover the entire container */
